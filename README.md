@@ -20,8 +20,13 @@ https://chai-darbar.vercel.app/
 - Vercel (Deployment)
 
 ## 📸 Screenshots
-![Desktop](screenshots/desktop.png)
-![Mobile](screenshots/mobile.png)
+
+### Desktop View
+![Desktop View](screenshots/desktop.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile.png)
+
 
 
 ## 🚀 Getting Started
