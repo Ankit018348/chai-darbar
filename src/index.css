@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: smooth font rendering */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-amber-50 text-amber-950 antialiased;
+}
+
